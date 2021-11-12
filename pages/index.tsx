@@ -1,9 +1,5 @@
-import MainLayout from "../layouts/MainLayout";
+import MainLayout from '../layouts/MainLayout'
 
 export default function Home() {
-  return (
-    <MainLayout>
-        HOME
-    </MainLayout>
-  )
+  return <MainLayout>HOME</MainLayout>
 }
