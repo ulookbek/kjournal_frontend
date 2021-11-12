@@ -2,6 +2,7 @@ import Head from 'next/head'
 import { CssBaseline } from '@mui/material'
 import Header from '../components/Header'
 import React from 'react'
+import './index.css'
 
 function MyApp({ Component, pageProps }) {
   return (
